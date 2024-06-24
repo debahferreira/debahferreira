@@ -1,11 +1,14 @@
 # Oiee, sou a Deborah 👋
 
+## Sobre mim: 
+
 - Tenho 18 anos, sou de Porto Alegre e estou no terceiro ano do E.M. do Colégio Militar de Porto Alegre.
 - Sou medalhista de prata das OBMEPs de 2019 e de 2021.
 - Fiquei em primeiro lugar de nota do meu ano no CMPA em 2018 e 2019 e em terceiro lugar em 2021 e 2023.
 - Dirigi o musical do meu colégio em 2023, "Disney Classics".
 - Atualmente, faço parte do programa Geração Caldeira, do Instituto Caldeira, cursando a trilha de Java (participei da trilha de Programação no ano de 2023).
 - Sou apaixonada por desafios e pelas ciências exatas, assim venho aproveitando muito os aprendizados do meu curso de programação, tendo um objetivo em mente: descobrir o máximo possível sobre essas novas linguagens e encontrar formas de aplicá-las na minha vida.
+- Amo cantar e tocar piano <3
 - Vou me formar neste ano de 2024 e desejo cursar ciências da computação na UFRGS.
 - Estou ansiosa para postar aqui meus próximos projetos e conseguir ver a minha evolução!
 
@@ -18,7 +21,14 @@
 <a href="https://www.linkedin.com/in/deborah-ferreira-ribeiro-62a0342b0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Estatísticas:
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debahferreira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=debahferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 <!--
 **debahferreira/debahferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
