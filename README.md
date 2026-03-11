@@ -2,14 +2,14 @@
 
 ## Sobre mim: 
 
-- Tenho 18 anos, sou de Porto Alegre e estou no terceiro ano do E.M. do Colégio Militar de Porto Alegre.
+- Tenho 20 anos, sou de Porto Alegre e estou no terceiro semestre de Ciência da Computação na UFRGS.
+- Estudei o ensino fundamental e médio no Colégio Militar de Porto Alegre.
 - Sou medalhista de prata das OBMEPs de 2019 e de 2021.
-- Fiquei em primeiro lugar de nota do meu ano no CMPA em 2018 e 2019 e em terceiro lugar em 2021 e 2023.
+- Fiquei em primeiro lugar de nota do meu ano no CMPA em 2018 e 2019 e em terceiro lugar em 2021, 2023 e 2024.
 - Dirigi o musical do meu colégio em 2023, "Disney Classics".
-- Atualmente, faço parte do programa Geração Caldeira, do Instituto Caldeira, cursando a trilha de Java (participei da trilha de Programação no ano de 2023).
+- Fiz parte do programa Geração Caldeira em 2024, do Instituto Caldeira, cursando a trilha de Java.
 - Sou apaixonada por desafios e pelas ciências exatas, assim venho aproveitando muito os aprendizados do meu curso de programação, tendo um objetivo em mente: descobrir o máximo possível sobre essas novas linguagens e encontrar formas de aplicá-las na minha vida.
 - Amo cantar e tocar piano <3
-- Vou me formar neste ano de 2024 e desejo cursar ciências da computação na UFRGS.
 - Estou ansiosa para postar aqui meus próximos projetos e conseguir ver a minha evolução!
 
 ## Contatos:
